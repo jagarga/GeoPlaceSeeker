@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApplication2.Areas.HelpPage.ModelDescriptions;
-using WebApplication2.Areas.HelpPage.Models;
+using GeoPlaceSeeker.Areas.HelpPage.ModelDescriptions;
+using GeoPlaceSeeker.Areas.HelpPage.Models;
 
-namespace WebApplication2.Areas.HelpPage.Controllers
+namespace GeoPlaceSeeker.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

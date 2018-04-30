@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication2.Models
+namespace GeoPlaceSeeker.Models
 {
     // Modelos devueltos por las acciones MeController.
     public class GetViewModel

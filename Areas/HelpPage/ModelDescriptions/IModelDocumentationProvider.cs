@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace WebApplication2.Areas.HelpPage.ModelDescriptions
+namespace GeoPlaceSeeker.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

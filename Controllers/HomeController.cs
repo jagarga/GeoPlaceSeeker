@@ -5,7 +5,7 @@ using System.Web.Mvc;
 using Npgsql;
 using Microsoft.ApplicationInsights.Extensibility;
 
-namespace WebApplication2.Controllers
+namespace GeoPlaceSeeker.Controllers
 {
     //[Authorize]
     public class HomeController : Controller

@@ -1,4 +1,4 @@
-namespace WebApplication2.Areas.HelpPage.ModelDescriptions
+namespace GeoPlaceSeeker.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

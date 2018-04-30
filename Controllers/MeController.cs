@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
-using WebApplication2.Models;
+using GeoPlaceSeeker.Models;
 
-namespace WebApplication2.Controllers
+namespace GeoPlaceSeeker.Controllers
 {
     [Authorize]
     public class MeController : ApiController

@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using WebApplication2.Models;
+using GeoPlaceSeeker.Models;
 
-namespace WebApplication2.Controllers
+namespace GeoPlaceSeeker.Controllers
 {
     [Authorize]
     public class AccountController : Controller

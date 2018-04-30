@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.Owin.Security.OAuth;
 
-namespace WebApplication2.Providers
+namespace GeoPlaceSeeker.Providers
 {
     public class ApplicationOAuthProvider : OAuthAuthorizationServerProvider
     {

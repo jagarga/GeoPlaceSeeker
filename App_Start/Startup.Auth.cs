@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using WebApplication2.Models;
-using WebApplication2.Providers;
+using GeoPlaceSeeker.Models;
+using GeoPlaceSeeker.Providers;
 
-namespace WebApplication2
+namespace GeoPlaceSeeker
 {
     public partial class Startup
     {

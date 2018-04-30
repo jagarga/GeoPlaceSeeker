@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(WebApplication2.Startup))]
+[assembly: OwinStartup(typeof(GeoPlaceSeeker.Startup))]
 
-namespace WebApplication2
+namespace GeoPlaceSeeker
 {
     public partial class Startup
     {

@@ -6,7 +6,7 @@ using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 
-namespace WebApplication2
+namespace GeoPlaceSeeker
 {
     public static class WebApiConfig
     {
